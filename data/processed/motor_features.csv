@@ -1,0 +1,1 @@
+test_id,motor_id,label,voltage_v,current_rms_a,current_peak_a,rpm,temperature_c,temperature_rate_c_per_s,vibration_rms_x_g,vibration_rms_y_g,vibration_rms_z_g,dominant_vibration_frequency_hz
